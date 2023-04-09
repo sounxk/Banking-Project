@@ -27,6 +27,7 @@ To withdraw money from an account, the user enters their account number and the 
 
 To close an account, the user enters their account number. The system verifies that the account has a zero balance and then removes the account from the system.
 
+
 ### Show All Accounts
 
 To view a list of all accounts, the user selects this option from the main menu, and the system displays a table of all accounts, including their account number, name, and current balance.
